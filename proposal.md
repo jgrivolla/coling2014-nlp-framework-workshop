@@ -41,10 +41,42 @@ Universitat Pompeu Fabra
 jens.grivolla @ upf.edu  
 Research interests include text mining / information extraction with a focus on sentiment analysis.
 
+Renaud Richardet  
+École Polytechnique Fédérale De Lausanne  
+xxx @ xxx.xxx  
+Research interests include ...
 
 Program Committee
 -----------------
  (4. A list of potential members of the program committee, with an indication of which members have already signed up.)
+
+confirmed:
+* Richard Eckart de Castilho, TU Darmstadt
+* Peter Klügl, Universität Würzburg
+* Jens Grivolla, Universitat Pompeu Fabra
+* Renaud Richardet, École Polytechnique Fédérale De Lausanne
+
+potential:
+* Sophia Ananiadou, University of Manchester
+* Steven Bethard, KU Leuven
+* Philipp Cimiano, Universität Bielefeld
+* Kevin Cohen, University of Colorado
+* Anni R. Coden, Thomas J. Watson Research Center
+* Frank Enders, Averbis GmbH
+* Nicolai Erbs, TU Darmstadt
+* Stefan Geissler, TEMIS
+* Thilo Götz, IBM Deutschland
+* Nicolas Hernandez, University of Nantes
+* Michael Herweg, IBM Deutschland
+* Nancy Ide, Vassar College
+* Eric Nyberg, Carnegie Mellon University
+* Kai Simon, Averbis GmbH
+* Michael Tanenblatt, Thomas J. Watson Research Center
+* Martin Toepfer, Universität Würzburg
+* Katrin Tomanek, Averbis GmbH
+* Karin Verspoor, National ICT Australia
+* Graham Wilcock, University of Helsinki
+* Torsten Zesch, University of Duisburg-Essen
 
 Shared Task
 -----------

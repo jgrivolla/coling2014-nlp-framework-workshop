@@ -55,6 +55,7 @@ confirmed:
 * Peter Klügl, Universität Würzburg
 * Jens Grivolla, Universitat Pompeu Fabra
 * Renaud Richardet, École Polytechnique Fédérale De Lausanne
+* Michael Tanenblatt, Thomas J. Watson Research Center
 
 potential:
 * Sophia Ananiadou, University of Manchester
@@ -71,7 +72,6 @@ potential:
 * Nancy Ide, Vassar College
 * Eric Nyberg, Carnegie Mellon University
 * Kai Simon, Averbis GmbH
-* Michael Tanenblatt, Thomas J. Watson Research Center
 * Martin Toepfer, Universität Würzburg
 * Katrin Tomanek, Averbis GmbH
 * Karin Verspoor, National ICT Australia

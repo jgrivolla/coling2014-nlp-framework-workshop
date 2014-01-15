@@ -30,7 +30,7 @@ Length
 ------
  (2. The desired workshop length (one day, two days or a half day) and an estimate of the number of attendees.)
 
-The last UIMA workshop (http://uima.apache.org/gscl13.html) had 10 paper presentations and around 20 attendees.  It was a full day workshop.
+The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.
  
 Organisers
 ----------

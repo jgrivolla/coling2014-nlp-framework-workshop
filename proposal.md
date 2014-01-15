@@ -56,6 +56,8 @@ confirmed:
 * Jens Grivolla, Universitat Pompeu Fabra
 * Renaud Richardet, École Polytechnique Fédérale De Lausanne
 * Michael Tanenblatt, Thomas J. Watson Research Center
+* Azad Dehghan, University of Manchester
+* Leon Derczynski, University of Sheffield
 
 potential:
 * Sophia Ananiadou, University of Manchester

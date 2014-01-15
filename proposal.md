@@ -3,7 +3,7 @@ Workshop on Text Analysis Frameworks
 
 Description
 -----------
- (1. A title and brief (2-page max) description of the workshop topic and content.)
+ _1. A title and brief (2-page max) description of the workshop topic and content._
 
  
 For many decades, NLP has suffered from low software engineering standards causing a limited degree of re-usability of code and interoperability of different modules within larger NLP systems. While this did not really hamper success in limited task areas (such as implementing a parser), it caused serious problems for the emerging field of language technology where the focus is on building complex integrated software systems, e.g., for information extraction or machine translation. This lack of integration has led to duplicated software development, work-arounds for programs written in different (versions of) programming languages, and ad-hoc tweaking of interfaces between modules developed at different sites.
@@ -28,13 +28,13 @@ Workshop topics include, but are not limited to:
  
 Length
 ------
- (2. The desired workshop length (one day, two days or a half day) and an estimate of the number of attendees.)
+ _2. The desired workshop length (one day, two days or a half day) and an estimate of the number of attendees._
 
-The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.
+The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.  This workshop has a broader scope as it also addresses users of other analysis frameworks (in particular GATE) and may therefore attract more contributions.
  
 Organisers
 ----------
- (3. The names, postal addresses, phone numbers, and email addresses of the organisers, with one-paragraph statements of their research interests and areas of expertise.)
+ _3. The names, postal addresses, phone numbers, and email addresses of the organisers, with one-paragraph statements of their research interests and areas of expertise._
 
 Jens Grivolla  
 GLiCom  
@@ -65,7 +65,7 @@ Research interests include ...
 
 Program Committee
 -----------------
- (4. A list of potential members of the program committee, with an indication of which members have already signed up.)
+ _4. A list of potential members of the program committee, with an indication of which members have already signed up._
 
 confirmed:
 * Richard Eckart de Castilho, TU Darmstadt
@@ -103,18 +103,18 @@ potential:
 
 Shared Task
 -----------
- (5. A description of any shared tasks associated with the workshop.)
+ _5. A description of any shared tasks associated with the workshop._
  
 None
 
 Special Requirements
 ---
- (6. A description of special requirements for technical needs.)
+ _6. A description of special requirements for technical needs._
  
 None
 
 Posters
 ---
- (7. An indication of whether posters are likely to be included in the workshop program.)
+ _7. An indication of whether posters are likely to be included in the workshop program._
  
 Oral presentations only

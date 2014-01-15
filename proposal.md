@@ -58,6 +58,7 @@ confirmed:
 * Michael Tanenblatt, Thomas J. Watson Research Center
 * Azad Dehghan, University of Manchester
 * Leon Derczynski, University of Sheffield
+* Horacio Saggion, Universitat Pompeu Fabra
 
 potential:
 * Sophia Ananiadou, University of Manchester

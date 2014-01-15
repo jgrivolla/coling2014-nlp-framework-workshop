@@ -67,6 +67,7 @@ confirmed:
 * Leon Derczynski, University of Sheffield
 * Horacio Saggion, Universitat Pompeu Fabra
 * Carlos Rodríguez-Penagos, Barcelona Media
+* Joan Codina, Universitat Pompeu Fabra
 
 potential:
 * Sophia Ananiadou, University of Manchester

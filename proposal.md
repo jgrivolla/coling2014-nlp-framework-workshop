@@ -59,6 +59,7 @@ confirmed:
 * Azad Dehghan, University of Manchester
 * Leon Derczynski, University of Sheffield
 * Horacio Saggion, Universitat Pompeu Fabra
+* Carlos Rodríguez-Penagos, Barcelona Media
 
 potential:
 * Sophia Ananiadou, University of Manchester

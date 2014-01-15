@@ -38,8 +38,15 @@ Organisers
 
 Jens Grivolla  
 Universitat Pompeu Fabra  
-jens.grivolla @ upf.edu  
-Research interests include text mining / information extraction with a focus on sentiment analysis.
+jens.grivolla @ upf.edu
+
+Jens Grivolla is a senior researcher at Universitat Pompeu Fabra where he works on multimodal semantic analysis, integrating text, video and audio analysis, within the EUMSSI FP7 project. His research interests include text mining / information extraction with a focus on sentiment analysis, as well as recommender systems and information retrieval.  He has recently been invited to be a committer on the Apache UIMA project.
+
+Kalina Bontcheva  
+University of Sheffield  
+xxx @ xxx.xxx
+
+Kalina Bontcheva is a senior researcher in the Natural Language Processing Group, Department of Computer Science, University of Sheffield. From October 2010, she also holds an EPSRC Career Acceleration Fellowship (working part-time) on summarisation of social media. Other topics she is working on are NLP for social media, semantic search, collaborative environments for text annotation, and GATE. She is a demos co-chair at ACL'2014 and helps co-organise the biannual conference "Recent Advances in Natural Language Processing".  She has been working on Sheffield's GATE open-source NLP infrastructure since 1999 and is a core team member of the GATE project.
 
 Renaud Richardet  
 École Polytechnique Fédérale De Lausanne  

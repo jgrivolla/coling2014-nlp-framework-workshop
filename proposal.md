@@ -46,7 +46,7 @@ Kalina Bontcheva
 University of Sheffield  
 xxx @ xxx.xxx
 
-Kalina Bontcheva is a senior researcher in the Natural Language Processing Group, Department of Computer Science, University of Sheffield. From October 2010, she also holds an EPSRC Career Acceleration Fellowship (working part-time) on summarisation of social media. Other topics she is working on are NLP for social media, semantic search, collaborative environments for text annotation, and GATE. She is a demos co-chair at ACL'2014 and helps co-organise the biannual conference "Recent Advances in Natural Language Processing".  She has been working on Sheffield's GATE open-source NLP infrastructure since 1999 and is a core team member of the GATE project.
+Kalina Bontcheva is a senior research scientist and the holder of an EPSRC career acceleration fellowship, working on text summarisation of social media. Kalina received her PhD on the topic of adaptive hypertext generation from the University of Sheffield in 2001. Her main interests are information extraction, opinion mining, natural language generation, text summarisation, and software infrastructures for NLP. She has been a leading developer of GATE since 1999. Kalina Bontcheva coordinated the EC-funded TAO STREP project on transitioning applications to ontologies, as well as leading the Sheffield teams in TrendMiner, MUSING, SEKT, and MI-AKT projects. She was an area co-chair for Information Extraction at ACL'2010 and demos co-chair at COLING'2008. Kalina is a demo co-chair of the forthcoming ACL'2014. She also co-organises and lectures at the week-long, annual GATE NLP summer school in Sheffield, which attracts over 50 participants each year.
 
 Renaud Richardet  
 École Polytechnique Fédérale De Lausanne  
@@ -68,6 +68,7 @@ confirmed:
 * Horacio Saggion, Universitat Pompeu Fabra
 * Carlos Rodríguez-Penagos, Barcelona Media
 * Joan Codina, Universitat Pompeu Fabra
+* Mark A. Greenwood, University of Sheffield
 
 potential:
 * Sophia Ananiadou, University of Manchester

@@ -37,14 +37,24 @@ Organisers
  (3. The names, postal addresses, phone numbers, and email addresses of the organisers, with one-paragraph statements of their research interests and areas of expertise.)
 
 Jens Grivolla  
+GLiCom  
 Universitat Pompeu Fabra  
-jens.grivolla @ upf.edu
+c/ Roc Boronat, 138  
+08018 Barcelona, Spain  
+phone: +34 93 542 1930  
+jens.grivolla @ upf.edu  
 
-Jens Grivolla is a senior researcher at Universitat Pompeu Fabra where he works on multimodal semantic analysis, integrating text, video and audio analysis, within the EUMSSI FP7 project. His research interests include text mining / information extraction with a focus on sentiment analysis, as well as recommender systems and information retrieval.  He has recently been invited to be a committer on the Apache UIMA project.
+Jens Grivolla is a senior researcher at Universitat Pompeu Fabra where he works on multimodal semantic analysis - integrating text, video and audio analysis - within the EUMSSI FP7 project. His research interests include text mining / information extraction with a focus on sentiment analysis, as well as recommender systems and information retrieval.  He has been co-organising the yearly Special Session on Machine Learning with Multimedia Data at ICMLA since 2009.  Jens Grivolla has recently been invited to be a committer on the Apache UIMA project.
 
 Kalina Bontcheva  
+Department of Computer Science  
 University of Sheffield  
-xxx @ xxx.xxx
+Regent Court  
+211 Portobello  
+Sheffield S1 4DP  
+phone: (+44 - 114) 222 1930  
+fax: (+44 - 114) 222 1810  
+k.bontcheva @ dcs.shef.ac.uk  
 
 Kalina Bontcheva is a senior research scientist and the holder of an EPSRC career acceleration fellowship, working on text summarisation of social media. Kalina received her PhD on the topic of adaptive hypertext generation from the University of Sheffield in 2001. Her main interests are information extraction, opinion mining, natural language generation, text summarisation, and software infrastructures for NLP. She has been a leading developer of GATE since 1999. Kalina Bontcheva coordinated the EC-funded TAO STREP project on transitioning applications to ontologies, as well as leading the Sheffield teams in TrendMiner, MUSING, SEKT, and MI-AKT projects. She was an area co-chair for Information Extraction at ACL'2010 and demos co-chair at COLING'2008. Kalina is a demo co-chair of the forthcoming ACL'2014. She also co-organises and lectures at the week-long, annual GATE NLP summer school in Sheffield, which attracts over 50 participants each year.
 

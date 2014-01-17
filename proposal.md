@@ -22,10 +22,13 @@ Workshop topics include, but are not limited to:
 * sophisticated tools to build and manage complex processing pipelines
 * analysis of results: exploration, evaluation, visualization, and statistical analysis
 * experience reports combining components from different sources, as well as solutions to interoperability issues
+* experience reports combining different frameworks (e.g. GATE/UIMA/WebLicht/etc.)
 * UIMA components with a special focus on genericity and type-system independence
 * repositories of ready-to-use components for UIMA and/or GATE
 * distribution of components: documentation, licensing and packaging
 * developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
+* combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
+* use of NLP frameworks in real-world "industry" settings
  
 Length
 ------
@@ -58,11 +61,6 @@ fax: (+44 - 114) 222 1810
 k.bontcheva @ dcs.shef.ac.uk  
 
 Kalina Bontcheva is a senior research scientist and the holder of an EPSRC career acceleration fellowship, working on text summarisation of social media. Kalina received her PhD on the topic of adaptive hypertext generation from the University of Sheffield in 2001. Her main interests are information extraction, opinion mining, natural language generation, text summarisation, and software infrastructures for NLP. She has been a leading developer of GATE since 1999. Kalina Bontcheva coordinated the EC-funded TAO STREP project on transitioning applications to ontologies, as well as leading the Sheffield teams in TrendMiner, MUSING, SEKT, and MI-AKT projects. She was an area co-chair for Information Extraction at ACL'2010 and demos co-chair at COLING'2008. Kalina is a demo co-chair of the forthcoming ACL'2014. She also co-organises and lectures at the week-long, annual GATE NLP summer school in Sheffield, which attracts over 50 participants each year.
-
-Renaud Richardet  
-École Polytechnique Fédérale De Lausanne  
-xxx @ xxx.xxx  
-Research interests include ...
 
 Program Committee
 -----------------

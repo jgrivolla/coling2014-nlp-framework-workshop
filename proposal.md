@@ -8,29 +8,30 @@ Description
  
 For many decades, NLP has suffered from low software engineering standards causing a limited degree of re-usability of code and interoperability of different modules within larger NLP systems. While this did not really hamper success in limited task areas (such as implementing a parser), it caused serious problems for the emerging field of language technology where the focus is on building complex integrated software systems, e.g., for information extraction or machine translation. This lack of integration has led to duplicated software development, work-arounds for programs written in different (versions of) programming languages, and ad-hoc tweaking of interfaces between modules developed at different sites.
 
-In recent years, the Unstructured Information Management Architecture (UIMA) framework has been proposed as a middleware platform which offers integration by design through common type systems and standardized communication methods for components analysing streams of unstructured information, such as natural language. The UIMA framework offers a solid processing infrastructure that allows developers to concentrate on the implementation of the actual analytics components. An increasing number of members of the NLP community thus have adopted UIMA as a platform facilitating the creation of reusable NLP components that can be assembled to address different NLP tasks depending on their order, combination and configuration.
+In recent years, two main frameworks, UIMA and GATE, have emerged that aim to allow the easy integration of varied tools through common type systems and standardized communication methods for components analysing unstructured textual information, such as natural language.
 
-This workshop aims at bringing together members of the NLP community -- users, developers or providers of either UIMA components or UIMA-related tools in order to explore and discuss the opportunities and challenges in using UIMA as a platform for modern, well-engineered NLP. Alternatives to and comparisons of other frameworks (such as GATE, LingPipe, etc) with UIMA are of interest, too.
+Both frameworks offer a solid processing infrastructure that allows developers to concentrate on the implementation of the actual analytics components. An increasing number of members of the NLP community have adopted one of these frameworks as a platform for facilitating the creation of reusable NLP components that can be assembled to address different NLP tasks depending on their order, combination and configuration.
 
-In the context of an active NLP-oriented UIMA community, the challenge of creating reusable and interoperable components raises particular interest. From a methodological perspective, interoperability relies largely on UIMA type systems. Technically, it includes issues related to the packaging and distribution of UIMA components. Also, tools are important, for example to assemble complex processing work flows, to manage the bodies of data that are to be analysed and to visualize, explore, and further deploy the analysis results. Interoperability is also affected by legal issues, such as potentially incompatible licenses of components and tools. Further challenges are involved in embedding UIMA analysis within applications or using it in distributed computing scenarios, such as deployment of and access to required resources. Finally, the preservation of analysis results, their provenance and reproducibility are of particular interest to the scientific user community.
+This workshop aims at bringing together members of the NLP community specifically users, developers or providers of components and tools for these frameworks in order to explore and discuss the opportunities and challenges in using such platforms for modern, well-engineered NLP applications. Alternatives to and comparisons of other frameworks are also of interest.
+
+The challenge of creating reusable and interoperable components raises particular interest and are affected by legal issues, such as potentially incompatible licenses of components and tools as well as the technical aspects of packaging and distribution of components. Also, tools are important, for example to assemble complex processing work flows, to manage the bodies of data that are to be analysed and to visualize, explore, and further deploy the analysis results. Further challenges are involved in embedding framework based analysis within applications or using it in distributed computing scenarios, such as deployment of and access to required resources. Finally, the preservation of analysis results, their provenance and reproducibility are of particular interest to the scientific user community.
 
 Workshop topics include, but are not limited to: 
 * processing of very large data collections: scale-out, parallelization, and performance optimization
-* advanced applications driven by UIMA
+* advanced applications driven by an NLP framework
 * sophisticated tools to build and manage complex processing pipelines
 * analysis of results: exploration, evaluation, visualization, and statistical analysis
-* experience reports combining UIMA-based components from different sources, as well as solutions to interoperability issues
+* experience reports combining components from different sources, as well as solutions to interoperability issues
 * UIMA components with a special focus on genericity and type-system independence
-* repositories of ready-to-use UIMA-based components
-* (generic) type systems for UIMA
-* distribution of UIMA components: documentation, licensing and packaging
-* developing for UIMA: simplified APIs, debugging, unit testing, and limitations of UIMA
+* repositories of ready-to-use components for UIMA and/or GATE
+* distribution of components: documentation, licensing and packaging
+* developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
  
 Length
 ------
  _2. The desired workshop length (one day, two days or a half day) and an estimate of the number of attendees._
 
-The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.  This workshop has a broader scope as it also addresses users of other analysis frameworks (in particular GATE) and may therefore attract more contributions.
+The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.  This workshop has a broader scope as it also addresses users of GATE and other analysis frameworks and may therefore attract more contributions.
  
 Organisers
 ----------

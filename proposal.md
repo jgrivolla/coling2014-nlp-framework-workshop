@@ -78,6 +78,8 @@ confirmed:
 * Carlos Rodríguez-Penagos, Barcelona Media
 * Joan Codina, Universitat Pompeu Fabra
 * Mark A. Greenwood, University of Sheffield
+* Nancy Ide, Vassar College
+* Marie-Jean Meurs, Concordia University
 
 potential:
 * Sophia Ananiadou, University of Manchester

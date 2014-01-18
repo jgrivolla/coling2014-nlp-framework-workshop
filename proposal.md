@@ -10,7 +10,7 @@ For many decades, NLP has suffered from low software engineering standards causi
 
 In recent years, two main frameworks, UIMA and GATE, have emerged that aim to allow the easy integration of varied tools through common type systems and standardized communication methods for components analysing unstructured textual information, such as natural language.
 
-Both frameworks offer a solid processing infrastructure that allows developers to concentrate on the implementation of the actual analytics components. An increasing number of members of the NLP community have adopted one of these frameworks as a platform for facilitating the creation of reusable NLP components that can be assembled to address different NLP tasks depending on their order, combination and configuration.
+Both frameworks offer a solid processing infrastructure that allows developers to concentrate on the implementation of the actual analytics components. An increasing number of members of the NLP community have adopted one of these frameworks as a platform for facilitating the creation of reusable NLP components that can be assembled to address different NLP tasks depending on their order, combination and configuration. Analysis frameworks also reduce the problem of reproducibility of NLP results by formalising solution composition and making language processing tools shareable.
 
 This workshop aims at bringing together members of the NLP community specifically users, developers or providers of components and tools for these frameworks in order to explore and discuss the opportunities and challenges in using such platforms for modern, well-engineered NLP applications. Alternatives to and comparisons of other frameworks are also of interest.
 

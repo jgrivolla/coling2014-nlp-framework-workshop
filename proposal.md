@@ -80,6 +80,7 @@ confirmed:
 * Mark A. Greenwood, University of Sheffield
 * Nancy Ide, Vassar College
 * Marie-Jean Meurs, Concordia University
+* Kamel Nebhi, University of Geneva
 
 potential:
 * Sophia Ananiadou, University of Manchester

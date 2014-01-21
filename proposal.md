@@ -81,6 +81,7 @@ confirmed:
 * Nancy Ide, Vassar College
 * Marie-Jean Meurs, Concordia University
 * Kamel Nebhi, University of Geneva
+* Bahar Sateli, Semantic Software Lab, Concordia University
 
 potential:
 * Sophia Ananiadou, University of Manchester

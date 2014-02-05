@@ -1,11 +1,66 @@
-Workshop on Text Analysis Frameworks
+Workshop on Open Infrastructures and Analysis Frameworks for HLT
 ====================================
 
 Description
 -----------
- _1. A title and brief (2-page max) description of the workshop topic and content._
 
- 
+### Open Infrastructures for HLT
+
+Recent advances in digital storage and networking, coupled with the 
+extension of human language technologies (HLT) into ever broader areas 
+and the persistence of difficulties in software portability, have led 
+to an increased focus on development and deployment of web-based 
+infrastructures that allow users to access tools and other resources 
+and combine them to create novel solutions that can be efficiently 
+composed, tuned, evaluated, disseminated and consumed. This in turn 
+engenders collaborative development and deployment among individuals 
+and teams across the globe. It also increases the need for robust, 
+widely available evaluation methods and tools, means to achieve 
+interoperability of software and data from diverse sources, means to 
+handle licensing for limited access resources distributed over the 
+web, and, perhaps crucially, the need to develop strategies for 
+multi-site collaborative work. 
+
+Many of the issues and challenges surrounding these developments have 
+been addressed individually in particular projects and workshops, but 
+there are ramifications that cut across all of them. We therefore feel 
+that this is the moment to bring together participants representing 
+the range of interests that comprise the comprehensive picture for 
+community-driven distributed, collaborative, web-based development and 
+use for language processing software and resources. This includes 
+those engaged in development of web-based infrastructures for HLT as 
+well as those who will use these services and infrastructures, 
+especially for multi-site collaborative work. 
+
+The overall goal of this workshop is to provide a forum for discussion 
+of the requirements for an envisaged open “global laboratory” for HLT 
+research and development and establish the basis of a community 
+effort to develop and support it. To this end, the workshop will 
+include both presentations addressing the issues and challenges of 
+developing, deploying, and using the global laboratory for distributed 
+and collaborative efforts and discussion that will identify next steps 
+for moving forward, fostering community-wide awareness, and 
+establishing and encouraging communication among the various players. 
+
+Presentations will be solicited on the following topics: 
+
+- reports on current projects and frameworks, their challenges and 
+proposed or implemented solutions, including efforts to address 
+interoperability 
+- issues and challenges of multi-site collaborative projects, 
+including reports of implemented or proposed strategies 
+- pipeline management, including authentication, strategies for 
+passing resources through disparate tools and across hosting nodes, 
+and licensing 
+- development and use of evaluation environments that facilitate 
+assessment of HLT component performance, iterative application 
+development, and replication of results 
+- community awareness and implementation of open infrastructures,
+including how to engage the community, establish confidence in the 
+process, and promote use
+
+### Analysis Frameworks
+
 For many decades, NLP has suffered from low software engineering standards causing a limited degree of re-usability of code and interoperability of different modules within larger NLP systems. While this did not really hamper success in limited task areas (such as implementing a parser), it caused serious problems for the emerging field of language technology where the focus is on building complex integrated software systems, e.g., for information extraction or machine translation. This lack of integration has led to duplicated software development, work-arounds for programs written in different (versions of) programming languages, and ad-hoc tweaking of interfaces between modules developed at different sites.
 
 In recent years, two main frameworks, UIMA and GATE, have emerged that aim to allow the easy integration of varied tools through common type systems and standardized communication methods for components analysing unstructured textual information, such as natural language.
@@ -29,42 +84,33 @@ Workshop topics include, but are not limited to:
 * developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
 * combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
 * use of NLP frameworks in real-world "industry" settings
- 
-Length
-------
- _2. The desired workshop length (one day, two days or a half day) and an estimate of the number of attendees._
 
-The last UIMA workshop (http://uima.apache.org/gscl13.html) had 9 paper presentations (plus one invited talk) and around 20 attendees.  It was a full day workshop.  This workshop has a broader scope as it also addresses users of GATE and other analysis frameworks and may therefore attract more contributions.
- 
+
 Organisers
 ----------
- _3. The names, postal addresses, phone numbers, and email addresses of the organisers, with one-paragraph statements of their research interests and areas of expertise._
+Nancy Ide  
+Department of Computer Science, Vassar College
+
+James Pustejovsky  
+Department of Computer Science, Brandeis University
+
+Eric Nyberg  
+Language Technologies Institute, School of Computer Science, Carnegie Mellon University
+
+Christopher Cieri  
+Linguistic Data Consortium, University of Pennsylvania
+
+Jonathan Wright  
+Linguistic Data Consortium, University of Pennsylvania
 
 Jens Grivolla  
-GLiCom  
-Universitat Pompeu Fabra  
-c/ Roc Boronat, 138  
-08018 Barcelona, Spain  
-phone: +34 93 542 1930  
-jens.grivolla @ upf.edu  
-
-Jens Grivolla is a senior researcher at Universitat Pompeu Fabra where he works on multimodal semantic analysis - integrating text, video and audio analysis - within the EUMSSI FP7 project. His research interests include text mining / information extraction with a focus on sentiment analysis, as well as recommender systems and information retrieval.  He has been co-organising the yearly Special Session on Machine Learning with Multimedia Data at ICMLA since 2009.  Jens Grivolla has recently been invited to be a committer on the Apache UIMA project.
+GLiCom, Universitat Pompeu Fabra
 
 Kalina Bontcheva  
-Department of Computer Science  
-University of Sheffield  
-Regent Court  
-211 Portobello  
-Sheffield S1 4DP  
-phone: (+44 - 114) 222 1930  
-fax: (+44 - 114) 222 1810  
-k.bontcheva @ dcs.shef.ac.uk  
-
-Kalina Bontcheva is a senior research scientist and the holder of an EPSRC career acceleration fellowship, working on text summarisation of social media. Kalina received her PhD on the topic of adaptive hypertext generation from the University of Sheffield in 2001. Her main interests are information extraction, opinion mining, natural language generation, text summarisation, and software infrastructures for NLP. She has been a leading developer of GATE since 1999. Kalina Bontcheva coordinated the EC-funded TAO STREP project on transitioning applications to ontologies, as well as leading the Sheffield teams in TrendMiner, MUSING, SEKT, and MI-AKT projects. She was an area co-chair for Information Extraction at ACL'2010 and demos co-chair at COLING'2008. Kalina is a demo co-chair of the forthcoming ACL'2014. She also co-organises and lectures at the week-long, annual GATE NLP summer school in Sheffield, which attracts over 50 participants each year.
+Department of Computer Science, University of Sheffield
 
 Program Committee
 -----------------
- _4. A list of potential members of the program committee, with an indication of which members have already signed up._
 
 confirmed:
 * Richard Eckart de Castilho, TU Darmstadt
@@ -103,21 +149,3 @@ potential:
 * Karin Verspoor, National ICT Australia
 * Graham Wilcock, University of Helsinki
 * Torsten Zesch, University of Duisburg-Essen
-
-Shared Task
------------
- _5. A description of any shared tasks associated with the workshop._
- 
-None
-
-Special Requirements
----
- _6. A description of special requirements for technical needs._
- 
-None
-
-Posters
----
- _7. An indication of whether posters are likely to be included in the workshop program._
- 
-Oral presentations only

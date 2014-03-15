@@ -25,7 +25,8 @@ The challenge of creating reusable and interoperable components raises particula
 
 ### Topics
 
-Workshop topics include, but are not limited to: 
+Workshop topics include, but are not limited to:
+
 - processing of very large data collections: scale-out, parallelization, and performance optimization
 - advanced applications driven by an NLP framework
 - sophisticated tools to build and manage complex processing pipelines

@@ -26,19 +26,18 @@ The challenge of creating reusable and interoperable components raises particula
 ### Topics
 
 Workshop topics include, but are not limited to: 
-* processing of very large data collections: scale-out, parallelization, and performance optimization
-* advanced applications driven by an NLP framework
-* sophisticated tools to build and manage complex processing pipelines
-* analysis of results: exploration, evaluation, visualization, and statistical analysis
-* experience reports combining components from different sources, as well as solutions to interoperability issues
-* experience reports combining different frameworks (e.g. GATE/UIMA/WebLicht/etc.)
-* UIMA components with a special focus on genericity and type-system independence
-* repositories of ready-to-use components for UIMA and/or GATE
-* distribution of components: documentation, licensing and packaging
-* developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
-* combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
-* use of NLP frameworks in real-world "industry" settings
-
+- processing of very large data collections: scale-out, parallelization, and performance optimization
+- advanced applications driven by an NLP framework
+- sophisticated tools to build and manage complex processing pipelines
+- analysis of results: exploration, evaluation, visualization, and statistical analysis
+- experience reports combining components from different sources, as well as solutions to interoperability issues
+- experience reports combining different frameworks (e.g. GATE/UIMA/WebLicht/etc.)
+- UIMA components with a special focus on genericity and type-system independence
+- repositories of ready-to-use components for UIMA and/or GATE
+- distribution of components: documentation, licensing and packaging
+- developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
+- combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
+- use of NLP frameworks in real-world "industry" settings
 - reports on current projects and frameworks, their challenges and proposed or implemented solutions, including efforts to address interoperability 
 - issues and challenges of multi-site collaborative projects, including reports of implemented or proposed strategies
 - pipeline management, including authentication, strategies for passing resources through disparate tools and across hosting nodes, and licensing 

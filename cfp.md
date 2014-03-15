@@ -73,6 +73,7 @@ Program Committee
 -----------------
 
 confirmed:
+
 * Richard Eckart de Castilho, TU Darmstadt
 * Peter Klügl, Universität Würzburg
 * Jens Grivolla, Universitat Pompeu Fabra
@@ -89,6 +90,7 @@ confirmed:
 * Bahar Sateli, Semantic Software Lab, Concordia University
 
 potential:
+
 * Sophia Ananiadou, University of Manchester
 * Steven Bethard, KU Leuven
 * Philipp Cimiano, Universität Bielefeld

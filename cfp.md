@@ -92,6 +92,9 @@ confirmed:
 * Marie-Jean Meurs, Concordia University
 * Kamel Nebhi, University of Geneva
 * Bahar Sateli, Semantic Software Lab, Concordia University
+* René Witte, Semantic Software Lab, Concordia University
+* Graham Wilcock, Helsinki
+* Torsten Zesch, University of Duisburg-Essen
 
 potential:
 
@@ -111,4 +114,3 @@ potential:
 * Katrin Tomanek, Averbis GmbH
 * Karin Verspoor, National ICT Australia
 * Graham Wilcock, University of Helsinki
-* Torsten Zesch, University of Duisburg-Essen

@@ -1,6 +1,8 @@
 Workshop on Open Infrastructures and Analysis Frameworks for HLT
 ====================================
 
+http://glicom.upf.edu/OIAF4HLT/
+
 At the 25th International Conference on Computational Linguistics (COLING 2014)  
 Helix Conference Centre at Dublin City University (DCU)  
 23-29 August 2014

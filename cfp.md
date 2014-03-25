@@ -49,6 +49,12 @@ Workshop topics include, but are not limited to:
 - development and use of evaluation environments that facilitate assessment of HLT component performance, iterative application development, and replication of results 
 - community awareness and implementation of open infrastructures, including how to engage the community, establish confidence in the process, and promote use
 
+Dates
+-----
+Paper Submission Deadline: 2nd May 2014  
+Author Notification Deadline: 6th June 2014  
+Camera-Ready Paper Deadline: 27th June 2014  
+Workshop: 24 August 2014
 
 Organisers
 ----------

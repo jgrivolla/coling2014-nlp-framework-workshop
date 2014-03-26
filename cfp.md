@@ -1,5 +1,5 @@
 Workshop on Open Infrastructures and Analysis Frameworks for HLT
-====================================
+================================================================
 
 http://glicom.upf.edu/OIAF4HLT/
 

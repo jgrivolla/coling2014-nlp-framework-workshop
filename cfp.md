@@ -103,6 +103,8 @@ confirmed:
 * René Witte, Semantic Software Lab, Concordia University
 * Graham Wilcock, Helsinki
 * Torsten Zesch, University of Duisburg-Essen
+* Yoshinobu Kano, PRESTO, Japan Science and Technology Agency
+* Mohammad AL Asswad, Cornell University
 
 potential:
 

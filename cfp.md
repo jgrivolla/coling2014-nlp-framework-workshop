@@ -1,5 +1,19 @@
+---
+layout: page
+title: CFP
+tagline: Call for Papers
+group: navigation
+---
+{% include JB/setup %}
+
 Workshop on Open Infrastructures and Analysis Frameworks for HLT
-====================================
+================================================================
+
+http://glicom.upf.edu/OIAF4HLT/
+
+At the 25th International Conference on Computational Linguistics (COLING 2014)  
+Helix Conference Centre at Dublin City University (DCU)  
+23-29 August 2014
 
 Description
 -----------
@@ -25,26 +39,32 @@ The challenge of creating reusable and interoperable components raises particula
 
 ### Topics
 
-Workshop topics include, but are not limited to: 
-* processing of very large data collections: scale-out, parallelization, and performance optimization
-* advanced applications driven by an NLP framework
-* sophisticated tools to build and manage complex processing pipelines
-* analysis of results: exploration, evaluation, visualization, and statistical analysis
-* experience reports combining components from different sources, as well as solutions to interoperability issues
-* experience reports combining different frameworks (e.g. GATE/UIMA/WebLicht/etc.)
-* UIMA components with a special focus on genericity and type-system independence
-* repositories of ready-to-use components for UIMA and/or GATE
-* distribution of components: documentation, licensing and packaging
-* developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
-* combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
-* use of NLP frameworks in real-world "industry" settings
+Workshop topics include, but are not limited to:
 
+- processing of very large data collections: scale-out, parallelization, and performance optimization
+- advanced applications driven by an NLP framework
+- sophisticated tools to build and manage complex processing pipelines
+- analysis of results: exploration, evaluation, visualization, and statistical analysis
+- experience reports combining components from different sources, as well as solutions to interoperability issues
+- experience reports combining different frameworks (e.g. GATE/UIMA/WebLicht/etc.)
+- UIMA components with a special focus on genericity and type-system independence
+- repositories of ready-to-use components for UIMA and/or GATE
+- distribution of components: documentation, licensing and packaging
+- developing for UIMA or GATE: simplified APIs, debugging, unit testing, and limitations of the frameworks
+- combining annotation type systems in processing frameworks (GATE, UIMA, etc.) with standardization efforts, such as done in the ISO TC37/SC4 or TEI contexts.
+- use of NLP frameworks in real-world "industry" settings
 - reports on current projects and frameworks, their challenges and proposed or implemented solutions, including efforts to address interoperability 
 - issues and challenges of multi-site collaborative projects, including reports of implemented or proposed strategies
 - pipeline management, including authentication, strategies for passing resources through disparate tools and across hosting nodes, and licensing 
 - development and use of evaluation environments that facilitate assessment of HLT component performance, iterative application development, and replication of results 
 - community awareness and implementation of open infrastructures, including how to engage the community, establish confidence in the process, and promote use
 
+Dates
+-----
+Paper Submission Deadline: 2nd May 2014  
+Author Notification Deadline: 6th June 2014  
+Camera-Ready Paper Deadline: 27th June 2014  
+Workshop: 23rd August 2014
 
 Organisers
 ----------
@@ -73,6 +93,7 @@ Program Committee
 -----------------
 
 confirmed:
+
 * Richard Eckart de Castilho, TU Darmstadt
 * Peter Klügl, Universität Würzburg
 * Jens Grivolla, Universitat Pompeu Fabra
@@ -87,8 +108,14 @@ confirmed:
 * Marie-Jean Meurs, Concordia University
 * Kamel Nebhi, University of Geneva
 * Bahar Sateli, Semantic Software Lab, Concordia University
+* René Witte, Semantic Software Lab, Concordia University
+* Graham Wilcock, Helsinki
+* Torsten Zesch, University of Duisburg-Essen
+* Yoshinobu Kano, PRESTO, Japan Science and Technology Agency
+* Mohammad AL Asswad, Cornell University
 
 potential:
+
 * Sophia Ananiadou, University of Manchester
 * Steven Bethard, KU Leuven
 * Philipp Cimiano, Universität Bielefeld
@@ -105,4 +132,3 @@ potential:
 * Katrin Tomanek, Averbis GmbH
 * Karin Verspoor, National ICT Australia
 * Graham Wilcock, University of Helsinki
-* Torsten Zesch, University of Duisburg-Essen

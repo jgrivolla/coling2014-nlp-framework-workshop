@@ -53,22 +53,3 @@ confirmed:
 * Torsten Zesch, University of Duisburg-Essen
 * Yoshinobu Kano, PRESTO, Japan Science and Technology Agency
 * Mohammad AL Asswad, Cornell University
-
-potential:
-
-* Sophia Ananiadou, University of Manchester
-* Steven Bethard, KU Leuven
-* Philipp Cimiano, Universität Bielefeld
-* Kevin Cohen, University of Colorado
-* Anni R. Coden, Thomas J. Watson Research Center
-* Frank Enders, Averbis GmbH
-* Nicolai Erbs, TU Darmstadt
-* Stefan Geissler, TEMIS
-* Thilo Götz, IBM Deutschland
-* Nicolas Hernandez, University of Nantes
-* Michael Herweg, IBM Deutschland
-* Kai Simon, Averbis GmbH
-* Martin Toepfer, Universität Würzburg
-* Katrin Tomanek, Averbis GmbH
-* Karin Verspoor, National ICT Australia
-* Graham Wilcock, University of Helsinki

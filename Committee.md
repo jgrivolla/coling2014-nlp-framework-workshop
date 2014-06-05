@@ -32,8 +32,6 @@ Department of Computer Science, University of Sheffield
 Program Committee
 -----------------
 
-confirmed:
-
 * Richard Eckart de Castilho, TU Darmstadt
 * Peter Klügl, Universität Würzburg
 * Jens Grivolla, Universitat Pompeu Fabra

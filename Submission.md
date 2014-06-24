@@ -14,7 +14,7 @@ The following two types of submissions will be accepted:
 
 Papers will be presented orally or as posters – the decision on presentation format will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally and as posters.
 
-Reviewing will be double-blind, and thus no information that could identify the authors should be included in the papers; for example, self-reference should be avoided.
+<s>Reviewing will be double-blind, and thus no information that could identify the authors should be included in the papers; for example, self-reference should be avoided.</s> Given that the workshop is focused on tools and platforms that can often be easily related to the corresponding authors, review will not be double-blind.
 
 Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, thoroughness, significance, contributions to research resources, and replicability. All submissions must be in PDF format and must follow the COLING 2014 formatting requirements. See other COLING 2014 style files.
 

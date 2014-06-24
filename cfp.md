@@ -92,24 +92,41 @@ Department of Computer Science, University of Sheffield
 Program Committee
 -----------------
 
-confirmed:
-
-* Richard Eckart de Castilho, TU Darmstadt
-* Peter Klügl, Universität Würzburg
-* Jens Grivolla, Universitat Pompeu Fabra
-* Renaud Richardet, École Polytechnique Fédérale De Lausanne
-* Michael Tanenblatt, Thomas J. Watson Research Center
 * Azad Dehghan, University of Manchester
-* Leon Derczynski, University of Sheffield
-* Horacio Saggion, Universitat Pompeu Fabra
-* Carlos Rodríguez-Penagos, Barcelona Media
-* Joan Codina, Universitat Pompeu Fabra
-* Mark A. Greenwood, University of Sheffield
-* Marie-Jean Meurs, Concordia University
-* Kamel Nebhi, University of Geneva
 * Bahar Sateli, Semantic Software Lab, Concordia University
-* René Witte, Semantic Software Lab, Concordia University
-* Graham Wilcock, Helsinki
-* Torsten Zesch, University of Duisburg-Essen
-* Yoshinobu Kano, PRESTO, Japan Science and Technology Agency
+* Bontcheva Kalina, University of Sheffield
+* Carlos Rodríguez-Penagos, Barcelona Media
+* Chunqi Shi, Brandeis University
+* Eric Nyberg, Carnegie-Mellon University
+* Graham Wilcock, University of Helsinki
+* Horacio Saggion, Universitat Pompeu Fabra
+* James Pustejovsky, Brandeis University
+* Jens Grivolla, Universitat Pompeu Fabra
+* Joan Codina, Universitat Pompeu Fabra
+* Jonathan Wright, University of Pennsylvania
+* Kamel Nebhi, University of Geneva
+* Karin Verspoor, National ICT Australia
+* Katrin Tomanek, Averbis GmbH
+* Keith Suderman, Vassar College
+* Kevin Cohen, University of Colorado
+* Leon Derczynski, University of Sheffield
+* Marc Verhagen, Brandeis University
+* Marie-Jean Meurs, Concordia University
+* Mark A. Greenwood, University of Sheffield
+* Martin Toepfer, Universität Würzburg
+* Michael Tanenblatt, Thomas J. Watson Research Center
 * Mohammad AL Asswad, Cornell University
+* Nancy Ide, Vassar College
+* Nicolai Erbs, TU Darmstadt
+* Nicolas Hernandez, University of Nantes
+* Nuria Bel, Universitat Pompeu Fabra
+* Peter Klügl, University of Würzburg
+* Philipp Cimiano, Universität Bielefeld
+* Renaud Richardet, École Polytechnique Fédérale De Lausanne
+* René Witte, Semantic Software Lab, Concordia University
+* Richard Eckart de Castilho, TU Darmstadt
+* Steven Bethard, University of Alabama at Birmingham
+* Thilo Götz, IBM Deutschland
+* Torsten Zesch, University of Duisburg-Essen
+* Yohei Murakama, Kyoto University
+* Yoshinobu Kano, PRESTO, Japan Science and Technology Agency

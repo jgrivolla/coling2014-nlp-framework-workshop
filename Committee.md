@@ -45,7 +45,7 @@ Program Committee
 * Joan Codina, Universitat Pompeu Fabra
 * Jonathan Wright, University of Pennsylvania
 * Kamel Nebhi, University of Geneva
-* Karin Verspoor, National ICT Australia
+* Karin Verspoor, University of Melbourne
 * Katrin Tomanek, Averbis GmbH
 * Keith Suderman, Vassar College
 * Kevin Cohen, University of Colorado

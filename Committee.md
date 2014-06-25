@@ -34,7 +34,7 @@ Program Committee
 
 * Azad Dehghan, University of Manchester
 * Bahar Sateli, Semantic Software Lab, Concordia University
-* Bontcheva Kalina, University of Sheffield
+* Kalina Bontcheva, University of Sheffield
 * Carlos Rodríguez-Penagos, Barcelona Media
 * Chunqi Shi, Brandeis University
 * Eric Nyberg, Carnegie-Mellon University

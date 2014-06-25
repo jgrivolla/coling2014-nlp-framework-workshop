@@ -46,9 +46,9 @@ Program Committee
 * Jonathan Wright, University of Pennsylvania
 * Kamel Nebhi, University of Geneva
 * Karin Verspoor, University of Melbourne
-* Katrin Tomanek, Averbis GmbH
+* Katrin Tomanek, VigLink Inc.
 * Keith Suderman, Vassar College
-* Kevin Cohen, University of Colorado
+* Kevin Cohen, University of Colorado School of Medicine
 * Leon Derczynski, University of Sheffield
 * Marc Verhagen, Brandeis University
 * Marie-Jean Meurs, Concordia University

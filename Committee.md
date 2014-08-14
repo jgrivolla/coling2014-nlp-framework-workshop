@@ -34,7 +34,7 @@ Program Committee
 
 * Azad Dehghan, University of Manchester
 * Bahar Sateli, Semantic Software Lab, Concordia University
-* Bontcheva Kalina, University of Sheffield
+* Kalina Bontcheva, University of Sheffield
 * Carlos Rodríguez-Penagos, Barcelona Media
 * Chunqi Shi, Brandeis University
 * Eric Nyberg, Carnegie-Mellon University
@@ -46,9 +46,9 @@ Program Committee
 * Jonathan Wright, University of Pennsylvania
 * Kamel Nebhi, University of Geneva
 * Karin Verspoor, University of Melbourne
-* Katrin Tomanek, Averbis GmbH
+* Katrin Tomanek, VigLink Inc.
 * Keith Suderman, Vassar College
-* Kevin Cohen, University of Colorado
+* Kevin Cohen, University of Colorado School of Medicine
 * Leon Derczynski, University of Sheffield
 * Marc Verhagen, Brandeis University
 * Marie-Jean Meurs, Concordia University
